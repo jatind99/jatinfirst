@@ -1,3 +1,3 @@
 # jatinfirst
 this is my first.
-author - jatin kumar
+Author - jatin kumar
